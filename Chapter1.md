@@ -19,7 +19,7 @@ You go to Yaereene's house, a small, nondescript house right underneath the Gran
  11+: At player discretion, ask Yae to answer what it is.]
 She climbs up what looks like a ladder, but is more a tree branch. It's decorated with more of the stuff [(Feydorian) feybloom], and seems almost like a nest. "Ferris, or any of you—" she gestures at the PCs— "can take the nest."
 [Rest]
-At dawn, Yae wakes the party, her hair tousled, but not as if she had slept. 
+At dawn, Yae wakes the party, her hair tousled, but not as if she had slept.
 "Shall we go? It's just now darkening."
 Ferris nods.
 "Let's go."
