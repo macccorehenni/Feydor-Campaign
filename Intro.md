@@ -1,21 +1,35 @@
-# Campaign Setting and Introduction to the Characters Yaereene "Yae" Inphyra and Ferris Empharo
+# The Hunt Begins
 
-You find yourself in a castle town. It looks like any other — large, full of people, full of surprises. But what you don't see, what you _hear_, is a child. You walk into the typically ornate castle, find yourself in a whirlwind of joy, the King and Queen having had a child.
-"I name her, _Yaereene_," the queen proclaims.
-The hall erupts in cheers, for the royal _family_ was now with a child.
-
-But what you see isn't the present. No, this was when life in Malynor, and in Feydor Forest, its home, was much simpler.
-
-Now, this castle town all but lays in ruin, its castle a hellscape. Ten years after this day, a Lich— the lich of Feydor, as he would become known— started his reign of corruption. Now, Feydor, and the princess, Yaereene, must save itself from certain ruin, and you've been asked to help.
-
-Where you are now is in the village of the Grandfather Tree. Yaereene has long since fled her home, suffered grief. This child— once sweet and innocent— is now a shadow of her former self.
-
-As you watch the half-elf at the namesake of the village, you see her look up, as if in surprise.
-
-Then you see it— a buck, a deer, its antlers, much like Yaereene's before it, draped with a red plant none know. Like blood, its long vines drip down the ethereal nose of the animal, making this mysterious figure all the more… mysterious.
-
-"Father?" The half-elf seems… somewhat surprised by this ethereal form, and this admission seems to shock her as much as anyone else. Her father—  if that is truly what you could call this figure— seems to have called her to action, because as soon as she had heard whatever her father wanted her to say, she got up and left.
-
-You follow as she goes through the village to a unremarkable building where she enters. As you follow her in, you see a young human child. He rushes behind the counter as she enters the shop and runs back and informs his boss— Ferris, the tanner of the Grandfather Tree— that a guest has entered the shop.
-Ferris enters, what you'd expect from a warrior. He observes who Calin has summoned him for and gave a big smile.
-Now, Ferris looks like what you'd expect an half-elf warrior to look like. Ferris is tall, blonde and wears a standard-issue green tunic. But Yaereene does _not_ look anything like a half-elf. She has a
+The castle town hummed with life, sprawling in its predictable grandeur. It was like any other—filled with people, filled with surprises—but none of that mattered today.
+Because today, what defined the air was not what was seen, but what was heard.
+Inside the castle, voices swelled like a tide, filling the halls with celebration.
+"I name her, Yaereene," the queen proclaimed.
+A single declaration, one name, setting history into motion.
+The hall erupted—royalty had an heir, and Feydor’s future had taken its first breath.
+But this was before.
+Before Malynor fell. Before the kingdom was reduced to ruin, its foundations carved away by a force darker than time itself.
+Now, the castle stood as an ember of its former self, its walls crumbling under the weight of years and war. Ten years after Yaereene's birth, the Lich of Feydor arrived, twisting the land, unraveling the threads of its once-great rule.
+And now, the princess—no longer a child, no longer untouched by grief—must reclaim what was lost.
+That was why you were here.
+The village of Grandfather Tree bore no resemblance to the shattered kingdom, yet it carried its own quiet burden. Here, Yaereene had fled, survived, changed. What had once been innocence had become something quieter, heavier.
+At the base of the ancient tree, she stood—watching, waiting, not realizing she was about to witness something beyond reason.
+Then, the buck emerged from the mist.
+Its antlers were an echo, unmistakably similar to those that had once adorned Yaereene’s own brow. They were draped in red vines, long and twisted, bleeding color like ink onto its ethereal form. The air around it shimmered, shifting like something half-remembered, half-real.
+Yaereene inhaled sharply.
+"Father?"
+The word felt unnatural, hanging in the air like a question never meant to be spoken aloud.
+And whatever answer she received—it was enough.
+She rose, wordlessly, leaving without hesitation.
+You followed as she wove through the village, slipping into an unremarkable shop, its exterior masking the weight of what was about to unfold.
+A young boy, small but quick, darted behind the counter before running toward the back. A heartbeat later, Ferris emerged.
+At first glance, he looked the part of a warrior—tall, blonde, broad-shouldered, clothed in the familiar green tunic of the High Forest’s standard issue. Expected. Structured. Steady.
+Yaereene, however, was nothing expected.
+Mystical in presence. Grounded in thought. Half-goddess, half-grief.
+Her words held weight, each one chosen, deliberate. Ferris carried the same burden, but where her grief was ethereal, his was practical.
+Calin teased him, the boy’s voice breaking through the quiet tension. Ferris turned, half-ready to chide him, before catching sight of Yaereene again.
+She slipped something into his coat pocket.
+A single piece of parchment.
+A message written in ink so dark it almost blended into the fabric.
+It is time.
+And with those words, the hunt began.
+Feydor’s fate had been sealed long ago. But its redemption—that had yet to be written.
