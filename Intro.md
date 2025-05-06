@@ -21,7 +21,7 @@ The word felt unnatural, hanging in the air like a question never meant to be sp
 And whatever answer she received—it was enough.
 She rose, wordlessly, leaving without hesitation.
 You followed as she wove through the village, slipping into an unremarkable shop, its exterior masking the weight of what was about to unfold.
-A young boy, small but quick, darted behind the counter before running toward the back. A heartbeat later, Ferris emerged.
+A young boy, small but quick, darted behind the counter before running toward the back. A heartbeat later, Ferris emerged, looking to see who it was.
 At first glance, he looked the part of a warrior—tall, blonde, broad-shouldered, clothed in the familiar green tunic of the High Forest’s standard issue. Expected. Structured. Steady.
 Yaereene, however, was nothing expected.
 Mystical in presence. Grounded in thought. Half-goddess, half-grief.
