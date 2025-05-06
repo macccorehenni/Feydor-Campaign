@@ -1,4 +1,9 @@
 # The Hunt Begins
+---
+
+done: true
+
+---
 
 The castle town hummed with life, sprawling in its predictable grandeur. It was like any other—filled with people, filled with surprises—but none of that mattered today.
 Because today, what defined the air was not what was seen, but what was heard.
@@ -30,6 +35,10 @@ Calin teased him, the boy’s voice breaking through the quiet tension. Ferris t
 She slipped something into his coat pocket.
 A single piece of parchment.
 A message written in ink so dark it almost blended into the fabric.
-It is time.
+
+---
+**It is time.**
+
+---
 And with those words, the hunt began.
 Feydor’s fate had been sealed long ago. But its redemption—that had yet to be written.

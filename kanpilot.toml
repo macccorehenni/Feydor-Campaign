@@ -5,25 +5,4 @@ skipFiles = [ ".gitignore", "package.json" ]
 [[processes]]
 id = "o0oyzwrp9q2nbbddccga2co7"
 name = "Writing"
-
-  [[processes.tasks]]
-  id = "gb1nguduki2sds1uwyln2xcn"
-  title = "Finish intro"
-  description = ""
-  tag = "backlog"
-  linkFiles = [ ]
-  dueDate = ""
-  checkList = [ ]
-  priority = ""
-  linkCommits = [ ]
-
-  [[processes.tasks]]
-  id = "iv3f149llfdp2cyv251tvypg"
-  title = "Start developing a monster for first encounter"
-  description = ""
-  tag = "backlog"
-  linkFiles = [ ]
-  dueDate = ""
-  checkList = [ ]
-  priority = ""
-  linkCommits = [ ]
+tasks = [ ]
