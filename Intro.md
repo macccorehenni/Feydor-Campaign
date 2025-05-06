@@ -1,4 +1,4 @@
-# Campaign Setting and Introduction to the Character, Yaereene "Yae" Inphyra
+# Campaign Setting and Introduction to the Characters Yaereene "Yae" Inphyra and Ferris Empharo
 
 You find yourself in a castle town. It looks like any other — large, full of people, full of surprises. But what you don't see, what you _hear_, is a child. You walk into the typically ornate castle, find yourself in a whirlwind of joy, the King and Queen having had a child.
 "I name her, _Yaereene_," the queen proclaims.
@@ -6,7 +6,7 @@ The hall erupts in cheers, for the royal _family_ was now with a child.
 
 But what you see isn't the present. No, this was when life in Malynor, and in Feydor Forest, its home, was much simpler.
 
-Now, this castle town all but lays in ruin, its castle a hellscape. Ten years after this day, a Lich— the lich of Feydor, as he would become known— started his reign of corruption. Now, Feydor, and the princess, Yaereene, must save itself from certain ruin, and you've tasked to help.
+Now, this castle town all but lays in ruin, its castle a hellscape. Ten years after this day, a Lich— the lich of Feydor, as he would become known— started his reign of corruption. Now, Feydor, and the princess, Yaereene, must save itself from certain ruin, and you've been asked to help.
 
 Where you are now is in the village of the Grandfather Tree. Yaereene has long since fled her home, suffered grief. This child— once sweet and innocent— is now a shadow of her former self.
 
@@ -14,4 +14,7 @@ As you watch the half-elf at the namesake of the village, you see her look up, a
 
 Then you see it— a buck, a deer, its antlers, much like Yaereene's before it, draped with a red plant none know. Like blood, its long vines drip down the ethereal nose of the animal, making this mysterious figure all the more… mysterious.
 
-"Father?" The half-elf seems… somewhat surprised by this ethereal form, and this admission seems to shock her as much as anyone else. Her father—  if that is truly what you could call this figure— seems to have called her to action, because as soon as she had heard whatever her father wanted her to say, she got up and made off.
+"Father?" The half-elf seems… somewhat surprised by this ethereal form, and this admission seems to shock her as much as anyone else. Her father—  if that is truly what you could call this figure— seems to have called her to action, because as soon as she had heard whatever her father wanted her to say, she got up and left.
+
+You follow as she goes through the village to a unremarkable building where she enters. As you follow her in, you see a young human child. He rushes behind the counter as she enters the shop and runs back and informs his boss— Ferris, the tanner of the Grandfather Tree— that a guest has entered the shop. 
+Ferris enters, what you'd expect from a warrior. He observes who Calin has summoned him for and made
