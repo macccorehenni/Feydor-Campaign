@@ -1,7 +1,7 @@
 # Campaign Setting and Introduction to the Character, Yaereene "Yae" Inphyra
 
-You find yourself in a castle town. It looks like any other— large, full of people, full of surprises. But what you don't see, what you _hear_, is a child. You walk into the typically ornate castle, find yourself in a whirlwind of joy, the King and Queen having just had a child.
-"I shall name her, _Yaereene_," the queen proclaims.
+You find yourself in a castle town. It looks like any other — large, full of people, full of surprises. But what you don't see, what you _hear_, is a child. You walk into the typically ornate castle, find yourself in a whirlwind of joy, the King and Queen having had a child.
+"I name her, _Yaereene_," the queen proclaims.
 The hall erupts in cheers, for the royal _family_ was now with a child.
 
 But what you see isn't the present. No, this was when life in Malynor, and in Feydor Forest, its home, was much simpler.
@@ -14,4 +14,4 @@ As you watch the half-elf at the namesake of the village, you see her look up, a
 
 Then you see it— a buck, a deer. Its antlers, much like Yaereene before it, is draped with a red plant none know. Like blood, its long vines drip down the ethereal nose of the animal, making this mysterious figure all the more… mysterious.
 
-"Father?" The half-elf seems… somewhat surprised by this ethereal form, and this admission
+"Father?" The half-elf seems… somewhat surprised by this ethereal form, and this admission seems to shock her as much as anyone else. Her father—  if that is truly what you could call this figure— seems to have called her to action, because as soon as she had heard whatever her father wanted her to say, she went up
