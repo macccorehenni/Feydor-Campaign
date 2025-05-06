@@ -16,5 +16,6 @@ Then you see it— a buck, a deer, its antlers, much like Yaereene's before it, 
 
 "Father?" The half-elf seems… somewhat surprised by this ethereal form, and this admission seems to shock her as much as anyone else. Her father—  if that is truly what you could call this figure— seems to have called her to action, because as soon as she had heard whatever her father wanted her to say, she got up and left.
 
-You follow as she goes through the village to a unremarkable building where she enters. As you follow her in, you see a young human child. He rushes behind the counter as she enters the shop and runs back and informs his boss— Ferris, the tanner of the Grandfather Tree— that a guest has entered the shop. 
-Ferris enters, what you'd expect from a warrior. He observes who Calin has summoned him for and made
+You follow as she goes through the village to a unremarkable building where she enters. As you follow her in, you see a young human child. He rushes behind the counter as she enters the shop and runs back and informs his boss— Ferris, the tanner of the Grandfather Tree— that a guest has entered the shop.
+Ferris enters, what you'd expect from a warrior. He observes who Calin has summoned him for and gave a big smile.
+Now, Ferris looks like what you'd expect an half-elf warrior to look like. Ferris is tall, blonde and wears a standard-issue green tunic. But Yaereene does _not_ look anything like a half-elf. She has a
