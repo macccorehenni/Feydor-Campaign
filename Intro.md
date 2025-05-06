@@ -12,6 +12,6 @@ Where you are now is in the village of the Grandfather Tree. Yaereene has long s
 
 As you watch the half-elf at the namesake of the village, you see her look up, as if in surprise.
 
-Then you see it— a buck, a deer. Its antlers, much like Yaereene before it, is draped with a red plant none know. Like blood, its long vines drip down the ethereal nose of the animal, making this mysterious figure all the more… mysterious.
+Then you see it— a buck, a deer, its antlers, much like Yaereene's before it, draped with a red plant none know. Like blood, its long vines drip down the ethereal nose of the animal, making this mysterious figure all the more… mysterious.
 
-"Father?" The half-elf seems… somewhat surprised by this ethereal form, and this admission seems to shock her as much as anyone else. Her father—  if that is truly what you could call this figure— seems to have called her to action, because as soon as she had heard whatever her father wanted her to say, she got up and mul
+"Father?" The half-elf seems… somewhat surprised by this ethereal form, and this admission seems to shock her as much as anyone else. Her father—  if that is truly what you could call this figure— seems to have called her to action, because as soon as she had heard whatever her father wanted her to say, she got up and made off.
