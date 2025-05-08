@@ -25,4 +25,9 @@ Ferris nods.
 "Let's go."
 All go out of Yae's apartment and head towards the gate.
 As you reach the gate, a guard stops you all and chats with you.
-He has a shiny amulet aroud his 
+He has a shiny amulet around his neck.
+[Slight of hand check, with advantage for rouges, to steal it:
+1-5: Fail. The guard notices and moves away.
+6-14: Success, but it's obvious you took it, and the guard asks for it back.
+15-19: Success.
+20+: You deftly run up and steal it, so fast your party mates don't even notice!]
