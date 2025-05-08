@@ -24,3 +24,5 @@ At dawn, Yae wakes the party, her hair tousled, but not as if she had slept.
 Ferris nods.
 "Let's go."
 All go out of Yae's apartment and head towards the gate.
+As you reach the gate, a guard stops you all and chats with you.
+He has a shiny amulet aroud his 
