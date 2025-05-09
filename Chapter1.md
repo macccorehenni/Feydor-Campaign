@@ -3,7 +3,7 @@
 ## Exploring the village
 
 Players should now prepare for the adventure.
-In addition to the young man's tannery, there's an general store, stocked by Tanisa, the elven commoner, an weapon store, stocked by a rare human who lived in the Forest, Greenwood. Everything else is imported from the .
+In addition to the young man's tannery, there's an general store, stocked by Tanisa, the elven commoner, an weapon store, stocked by a rare human who lived in the Forest, Greenwood. Everything else is imported from the mountains surrounding the village.
 
 ## Heading out of the village
 
@@ -31,3 +31,5 @@ He has a shiny amulet around his neck.
 6-14: Success, but it's obvious you took it, and the guard asks for it back.
 15-19: Success.
 20+: You deftly run up and steal it, so fast your party mates don't even notice!]
+[If the amulet was stolen without notice, add it to the player with the highest check's inventory.]
+You all leave the village [a bit ]
